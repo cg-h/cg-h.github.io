@@ -1,3 +1,3 @@
-export const TESTING = false;
-export const ENEMYNUM = 47;
+export const TESTING = true;
+export const ENEMYNUM = 69;
 export const PLAYERNUM = 7;
